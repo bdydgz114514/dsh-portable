@@ -1,5 +1,28 @@
 # DSH 便携完整包（dsh-portable）
 
+## 下载完整包（约 3.4 GB / 105,000 个文件）
+
+完整快照体积太大（且含 3 个超过 GitHub 单文件 100 MB 上限的文件，例如 305 MB 的 `torch_cpu.dll`），因此作为 **Release 附件**发布，而不是塞进 git 仓库。
+
+### 下载地址：[DSH ????? v0.1.6-alpha.2(Windows x64)](https://github.com/bdydgz114514/dsh-portable/releases/tag/v0.1.6-alpha.2-portable)
+
+| 文件 | 大小 |
+|---|---|
+| [dsh-portable.7z](https://github.com/bdydgz114514/dsh-portable/releases/download/v0.1.6-alpha.2-portable/dsh-portable.7z) | 982.1 MB |
+
+**解压**：用 7-Zip / WinRAR / Bandizip 解压。
+
+**校验（SHA-256）**：下载后可用 `certutil -hashfile dsh-portable.7z SHA256` 核对：
+
+```
+DB324C3EF81C2F4819E4A808BACF6C3732D96A68E31F9258BC82D7700F6D56ED
+```
+
+解压后请先读包内 `README.md`，再运行 `install.ps1`（加 `-DryRun` 可预览）完成安装。
+
+---
+
+
 > 这是一份 **DeepSeek Harness（DSH）的完整快照**：程序本体 + 全部已装插件 + 全部个人设置 + 技能 + 工具链，解压安装后即可直接使用，无需再联网安装任何依赖。
 
 - 对应版本：`@deepseek-ai/dsh@0.1.6-alpha.2`
