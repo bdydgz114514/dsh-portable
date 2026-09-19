@@ -1,0 +1,6 @@
+# dsh bundle layer: mount the video_search tool (dsh/index.js via package root export).
+# Registers a `video_search` tool + a system-prompt section that tells the agent WHEN
+# to look for video instead of only text.
+- insert:
+    - id: video-search
+      name: 'dsh-video-search'

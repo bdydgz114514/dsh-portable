@@ -1,0 +1,2710 @@
+﻿[
+    {
+        "path":  "profiles\\node_modules\\accepts",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\accepts"
+    },
+    {
+        "path":  "profiles\\node_modules\\agent-base",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\agent-base"
+    },
+    {
+        "path":  "profiles\\node_modules\\ajv",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\ajv"
+    },
+    {
+        "path":  "profiles\\node_modules\\ajv-formats",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\ajv-formats"
+    },
+    {
+        "path":  "profiles\\node_modules\\argparse",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\argparse"
+    },
+    {
+        "path":  "profiles\\node_modules\\base64-js",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\base64-js"
+    },
+    {
+        "path":  "profiles\\node_modules\\bignumber.js",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\bignumber.js"
+    },
+    {
+        "path":  "profiles\\node_modules\\body-parser",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\body-parser"
+    },
+    {
+        "path":  "profiles\\node_modules\\bowser",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\bowser"
+    },
+    {
+        "path":  "profiles\\node_modules\\buffer-equal-constant-time",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\buffer-equal-constant-time"
+    },
+    {
+        "path":  "profiles\\node_modules\\bundle-name",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\bundle-name"
+    },
+    {
+        "path":  "profiles\\node_modules\\bytes",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\bytes"
+    },
+    {
+        "path":  "profiles\\node_modules\\call-bind-apply-helpers",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\call-bind-apply-helpers"
+    },
+    {
+        "path":  "profiles\\node_modules\\call-bound",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\call-bound"
+    },
+    {
+        "path":  "profiles\\node_modules\\chokidar",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\chokidar"
+    },
+    {
+        "path":  "profiles\\node_modules\\commander",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\commander"
+    },
+    {
+        "path":  "profiles\\node_modules\\compressible",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\compressible"
+    },
+    {
+        "path":  "profiles\\node_modules\\compression",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\compression"
+    },
+    {
+        "path":  "profiles\\node_modules\\content-disposition",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\content-disposition"
+    },
+    {
+        "path":  "profiles\\node_modules\\content-type",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\content-type"
+    },
+    {
+        "path":  "profiles\\node_modules\\cookie",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\cookie"
+    },
+    {
+        "path":  "profiles\\node_modules\\cookie-signature",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\cookie-signature"
+    },
+    {
+        "path":  "profiles\\node_modules\\cors",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\cors"
+    },
+    {
+        "path":  "profiles\\node_modules\\cross-spawn",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\cross-spawn"
+    },
+    {
+        "path":  "profiles\\node_modules\\data-uri-to-buffer",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\data-uri-to-buffer"
+    },
+    {
+        "path":  "profiles\\node_modules\\debug",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\debug"
+    },
+    {
+        "path":  "profiles\\node_modules\\default-browser",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\default-browser"
+    },
+    {
+        "path":  "profiles\\node_modules\\default-browser-id",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\default-browser-id"
+    },
+    {
+        "path":  "profiles\\node_modules\\define-lazy-prop",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\define-lazy-prop"
+    },
+    {
+        "path":  "profiles\\node_modules\\depd",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\depd"
+    },
+    {
+        "path":  "profiles\\node_modules\\destroy",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\destroy"
+    },
+    {
+        "path":  "profiles\\node_modules\\detect-libc",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\detect-libc"
+    },
+    {
+        "path":  "profiles\\node_modules\\diff",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\diff"
+    },
+    {
+        "path":  "profiles\\node_modules\\dunder-proto",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\dunder-proto"
+    },
+    {
+        "path":  "profiles\\node_modules\\ecdsa-sig-formatter",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\ecdsa-sig-formatter"
+    },
+    {
+        "path":  "profiles\\node_modules\\ee-first",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\ee-first"
+    },
+    {
+        "path":  "profiles\\node_modules\\encodeurl",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\encodeurl"
+    },
+    {
+        "path":  "profiles\\node_modules\\es-define-property",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\es-define-property"
+    },
+    {
+        "path":  "profiles\\node_modules\\es-errors",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\es-errors"
+    },
+    {
+        "path":  "profiles\\node_modules\\es-object-atoms",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\es-object-atoms"
+    },
+    {
+        "path":  "profiles\\node_modules\\escape-html",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\escape-html"
+    },
+    {
+        "path":  "profiles\\node_modules\\etag",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\etag"
+    },
+    {
+        "path":  "profiles\\node_modules\\eventsource",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\eventsource"
+    },
+    {
+        "path":  "profiles\\node_modules\\eventsource-parser",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\eventsource-parser"
+    },
+    {
+        "path":  "profiles\\node_modules\\express",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\express"
+    },
+    {
+        "path":  "profiles\\node_modules\\express-rate-limit",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\express-rate-limit"
+    },
+    {
+        "path":  "profiles\\node_modules\\extend",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\extend"
+    },
+    {
+        "path":  "profiles\\node_modules\\fast-deep-equal",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\fast-deep-equal"
+    },
+    {
+        "path":  "profiles\\node_modules\\fast-sha256",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\fast-sha256"
+    },
+    {
+        "path":  "profiles\\node_modules\\fast-uri",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\fast-uri"
+    },
+    {
+        "path":  "profiles\\node_modules\\fetch-blob",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\fetch-blob"
+    },
+    {
+        "path":  "profiles\\node_modules\\fflate",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\fflate"
+    },
+    {
+        "path":  "profiles\\node_modules\\finalhandler",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\finalhandler"
+    },
+    {
+        "path":  "profiles\\node_modules\\formdata-polyfill",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\formdata-polyfill"
+    },
+    {
+        "path":  "profiles\\node_modules\\forwarded",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\forwarded"
+    },
+    {
+        "path":  "profiles\\node_modules\\fresh",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\fresh"
+    },
+    {
+        "path":  "profiles\\node_modules\\function-bind",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\function-bind"
+    },
+    {
+        "path":  "profiles\\node_modules\\gaxios",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\gaxios"
+    },
+    {
+        "path":  "profiles\\node_modules\\gcp-metadata",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\gcp-metadata"
+    },
+    {
+        "path":  "profiles\\node_modules\\get-intrinsic",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\get-intrinsic"
+    },
+    {
+        "path":  "profiles\\node_modules\\get-proto",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\get-proto"
+    },
+    {
+        "path":  "profiles\\node_modules\\google-auth-library",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\google-auth-library"
+    },
+    {
+        "path":  "profiles\\node_modules\\google-logging-utils",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\google-logging-utils"
+    },
+    {
+        "path":  "profiles\\node_modules\\gopd",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\gopd"
+    },
+    {
+        "path":  "profiles\\node_modules\\has-symbols",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\has-symbols"
+    },
+    {
+        "path":  "profiles\\node_modules\\hasown",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\hasown"
+    },
+    {
+        "path":  "profiles\\node_modules\\hono",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\hono"
+    },
+    {
+        "path":  "profiles\\node_modules\\http-errors",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\http-errors"
+    },
+    {
+        "path":  "profiles\\node_modules\\http-proxy-agent",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\http-proxy-agent"
+    },
+    {
+        "path":  "profiles\\node_modules\\https-proxy-agent",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\https-proxy-agent"
+    },
+    {
+        "path":  "profiles\\node_modules\\iconv-lite",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\iconv-lite"
+    },
+    {
+        "path":  "profiles\\node_modules\\inherits",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\inherits"
+    },
+    {
+        "path":  "profiles\\node_modules\\ip-address",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\ip-address"
+    },
+    {
+        "path":  "profiles\\node_modules\\ipaddr.js",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\ipaddr.js"
+    },
+    {
+        "path":  "profiles\\node_modules\\is-docker",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\is-docker"
+    },
+    {
+        "path":  "profiles\\node_modules\\is-in-ssh",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\is-in-ssh"
+    },
+    {
+        "path":  "profiles\\node_modules\\is-inside-container",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\is-inside-container"
+    },
+    {
+        "path":  "profiles\\node_modules\\is-promise",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\is-promise"
+    },
+    {
+        "path":  "profiles\\node_modules\\is-wsl",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\is-wsl"
+    },
+    {
+        "path":  "profiles\\node_modules\\isexe",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\isexe"
+    },
+    {
+        "path":  "profiles\\node_modules\\jose",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\jose"
+    },
+    {
+        "path":  "profiles\\node_modules\\js-tokens",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\js-tokens"
+    },
+    {
+        "path":  "profiles\\node_modules\\js-yaml",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\js-yaml"
+    },
+    {
+        "path":  "profiles\\node_modules\\json-bigint",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\json-bigint"
+    },
+    {
+        "path":  "profiles\\node_modules\\json-schema-to-ts",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\json-schema-to-ts"
+    },
+    {
+        "path":  "profiles\\node_modules\\json-schema-traverse",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\json-schema-traverse"
+    },
+    {
+        "path":  "profiles\\node_modules\\json-schema-typed",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\json-schema-typed"
+    },
+    {
+        "path":  "profiles\\node_modules\\jwa",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\jwa"
+    },
+    {
+        "path":  "profiles\\node_modules\\jws",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\jws"
+    },
+    {
+        "path":  "profiles\\node_modules\\koffi",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\koffi"
+    },
+    {
+        "path":  "profiles\\node_modules\\long",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\long"
+    },
+    {
+        "path":  "profiles\\node_modules\\math-intrinsics",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\math-intrinsics"
+    },
+    {
+        "path":  "profiles\\node_modules\\media-typer",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\media-typer"
+    },
+    {
+        "path":  "profiles\\node_modules\\merge-descriptors",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\merge-descriptors"
+    },
+    {
+        "path":  "profiles\\node_modules\\mime-db",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\mime-db"
+    },
+    {
+        "path":  "profiles\\node_modules\\mime-types",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\mime-types"
+    },
+    {
+        "path":  "profiles\\node_modules\\ms",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\ms"
+    },
+    {
+        "path":  "profiles\\node_modules\\negotiator",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\negotiator"
+    },
+    {
+        "path":  "profiles\\node_modules\\node-addon-api",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\node-addon-api"
+    },
+    {
+        "path":  "profiles\\node_modules\\node-addon-native-custom-loader",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\node-addon-native-custom-loader"
+    },
+    {
+        "path":  "profiles\\node_modules\\node-addon-require-builtin",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\node-addon-require-builtin"
+    },
+    {
+        "path":  "profiles\\node_modules\\node-domexception",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\node-domexception"
+    },
+    {
+        "path":  "profiles\\node_modules\\node-fetch",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\node-fetch"
+    },
+    {
+        "path":  "profiles\\node_modules\\node-pty",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\node-pty"
+    },
+    {
+        "path":  "profiles\\node_modules\\object-assign",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\object-assign"
+    },
+    {
+        "path":  "profiles\\node_modules\\object-inspect",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\object-inspect"
+    },
+    {
+        "path":  "profiles\\node_modules\\on-finished",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\on-finished"
+    },
+    {
+        "path":  "profiles\\node_modules\\on-headers",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\on-headers"
+    },
+    {
+        "path":  "profiles\\node_modules\\once",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\once"
+    },
+    {
+        "path":  "profiles\\node_modules\\open",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\open"
+    },
+    {
+        "path":  "profiles\\node_modules\\openai",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\openai"
+    },
+    {
+        "path":  "profiles\\node_modules\\p-retry",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\p-retry"
+    },
+    {
+        "path":  "profiles\\node_modules\\parseurl",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\parseurl"
+    },
+    {
+        "path":  "profiles\\node_modules\\partial-json",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\partial-json"
+    },
+    {
+        "path":  "profiles\\node_modules\\path-key",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\path-key"
+    },
+    {
+        "path":  "profiles\\node_modules\\path-to-regexp",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\path-to-regexp"
+    },
+    {
+        "path":  "profiles\\node_modules\\picocolors",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\picocolors"
+    },
+    {
+        "path":  "profiles\\node_modules\\picomatch",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\picomatch"
+    },
+    {
+        "path":  "profiles\\node_modules\\pkce-challenge",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\pkce-challenge"
+    },
+    {
+        "path":  "profiles\\node_modules\\powershell-utils",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\powershell-utils"
+    },
+    {
+        "path":  "profiles\\node_modules\\protobufjs",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\protobufjs"
+    },
+    {
+        "path":  "profiles\\node_modules\\proxy-addr",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\proxy-addr"
+    },
+    {
+        "path":  "profiles\\node_modules\\qs",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\qs"
+    },
+    {
+        "path":  "profiles\\node_modules\\range-parser",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\range-parser"
+    },
+    {
+        "path":  "profiles\\node_modules\\raw-body",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\raw-body"
+    },
+    {
+        "path":  "profiles\\node_modules\\readdirp",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\readdirp"
+    },
+    {
+        "path":  "profiles\\node_modules\\require-from-string",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\require-from-string"
+    },
+    {
+        "path":  "profiles\\node_modules\\resolve.exports",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\resolve.exports"
+    },
+    {
+        "path":  "profiles\\node_modules\\retry",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\retry"
+    },
+    {
+        "path":  "profiles\\node_modules\\router",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\router"
+    },
+    {
+        "path":  "profiles\\node_modules\\run-applescript",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\run-applescript"
+    },
+    {
+        "path":  "profiles\\node_modules\\safe-buffer",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\safe-buffer"
+    },
+    {
+        "path":  "profiles\\node_modules\\safer-buffer",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\safer-buffer"
+    },
+    {
+        "path":  "profiles\\node_modules\\semver",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\semver"
+    },
+    {
+        "path":  "profiles\\node_modules\\send",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\send"
+    },
+    {
+        "path":  "profiles\\node_modules\\serve-static",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\serve-static"
+    },
+    {
+        "path":  "profiles\\node_modules\\setprototypeof",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\setprototypeof"
+    },
+    {
+        "path":  "profiles\\node_modules\\sharp",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\sharp"
+    },
+    {
+        "path":  "profiles\\node_modules\\shebang-command",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\shebang-command"
+    },
+    {
+        "path":  "profiles\\node_modules\\shebang-regex",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\shebang-regex"
+    },
+    {
+        "path":  "profiles\\node_modules\\side-channel",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\side-channel"
+    },
+    {
+        "path":  "profiles\\node_modules\\side-channel-list",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\side-channel-list"
+    },
+    {
+        "path":  "profiles\\node_modules\\side-channel-map",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\side-channel-map"
+    },
+    {
+        "path":  "profiles\\node_modules\\side-channel-weakmap",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\side-channel-weakmap"
+    },
+    {
+        "path":  "profiles\\node_modules\\standardwebhooks",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\standardwebhooks"
+    },
+    {
+        "path":  "profiles\\node_modules\\statuses",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\statuses"
+    },
+    {
+        "path":  "profiles\\node_modules\\toidentifier",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\toidentifier"
+    },
+    {
+        "path":  "profiles\\node_modules\\ts-algebra",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\ts-algebra"
+    },
+    {
+        "path":  "profiles\\node_modules\\tslib",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\tslib"
+    },
+    {
+        "path":  "profiles\\node_modules\\turndown",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\turndown"
+    },
+    {
+        "path":  "profiles\\node_modules\\type-is",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\type-is"
+    },
+    {
+        "path":  "profiles\\node_modules\\typebox",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\typebox"
+    },
+    {
+        "path":  "profiles\\node_modules\\undici",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\undici"
+    },
+    {
+        "path":  "profiles\\node_modules\\undici-types",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\undici-types"
+    },
+    {
+        "path":  "profiles\\node_modules\\unpipe",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\unpipe"
+    },
+    {
+        "path":  "profiles\\node_modules\\vary",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\vary"
+    },
+    {
+        "path":  "profiles\\node_modules\\web-streams-polyfill",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\web-streams-polyfill"
+    },
+    {
+        "path":  "profiles\\node_modules\\which",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\which"
+    },
+    {
+        "path":  "profiles\\node_modules\\wrappy",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\wrappy"
+    },
+    {
+        "path":  "profiles\\node_modules\\ws",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\ws"
+    },
+    {
+        "path":  "profiles\\node_modules\\wsl-utils",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\wsl-utils"
+    },
+    {
+        "path":  "profiles\\node_modules\\yaml",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\yaml"
+    },
+    {
+        "path":  "profiles\\node_modules\\zod",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\zod"
+    },
+    {
+        "path":  "profiles\\node_modules\\zod-to-json-schema",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\zod-to-json-schema"
+    },
+    {
+        "path":  "profiles\\node_modules\\@agentclientprotocol\\sdk",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@agentclientprotocol\\sdk"
+    },
+    {
+        "path":  "profiles\\node_modules\\@anthropic-ai\\sdk",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@anthropic-ai\\sdk"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws\\lambda-invoke-store",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws\\lambda-invoke-store"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-crypto\\sha256-browser",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-crypto\\sha256-browser"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-crypto\\sha256-js",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-crypto\\sha256-js"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-crypto\\supports-web-crypto",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-crypto\\supports-web-crypto"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-crypto\\util",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-crypto\\util"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\client-bedrock-runtime",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\client-bedrock-runtime"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\core",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\core"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\credential-provider-env",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\credential-provider-env"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\credential-provider-http",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\credential-provider-http"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\credential-provider-ini",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\credential-provider-ini"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\credential-provider-login",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\credential-provider-login"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\credential-provider-node",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\credential-provider-node"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\credential-provider-process",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\credential-provider-process"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\credential-provider-sso",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\credential-provider-sso"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\credential-provider-web-identity",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\credential-provider-web-identity"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\eventstream-handler-node",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\eventstream-handler-node"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\middleware-eventstream",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\middleware-eventstream"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\middleware-websocket",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\middleware-websocket"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\nested-clients",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\nested-clients"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\signature-v4-multi-region",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\signature-v4-multi-region"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\token-providers",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\token-providers"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\types",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\types"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\util-locate-window",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\util-locate-window"
+    },
+    {
+        "path":  "profiles\\node_modules\\@aws-sdk\\xml-builder",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@aws-sdk\\xml-builder"
+    },
+    {
+        "path":  "profiles\\node_modules\\@babel\\code-frame",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@babel\\code-frame"
+    },
+    {
+        "path":  "profiles\\node_modules\\@babel\\helper-validator-identifier",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@babel\\helper-validator-identifier"
+    },
+    {
+        "path":  "profiles\\node_modules\\@babel\\runtime",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@babel\\runtime"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\cordis",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\cordis"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\cordis-plugin-group",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\cordis-plugin-group"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\cordis-plugin-hmr",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\cordis-plugin-hmr"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\cordis-plugin-include",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\cordis-plugin-include"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\cordis-plugin-loader",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\cordis-plugin-loader"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\cordis-plugin-timer",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\cordis-plugin-timer"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\cosmokit",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\cosmokit"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-acp",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-acp"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-acp-app",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-acp-app"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-agent",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-agent"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-agent-default-model",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-agent-default-model"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-agent-instructions",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-agent-instructions"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-agent-loop",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-agent-loop"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-agent-presets",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-agent-presets"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-agent-tool-presentation",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-agent-tool-presentation"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-anonymous-user-id",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-anonymous-user-id"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-api-gateway",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-api-gateway"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-api-remotes",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-api-remotes"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-api-session-controller",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-api-session-controller"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-api-settings-controller",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-api-settings-controller"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-api-terminal-controller",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-api-terminal-controller"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-api-workspace-controller",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-api-workspace-controller"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-api-workspace-files",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-api-workspace-files"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-app-boot",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-app-boot"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-atomic-write",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-atomic-write"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-attachment",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-attachment"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-attachment-local",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-attachment-local"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-authorization",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-authorization"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-base",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-base"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-bash-local",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-bash-local"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-bash-sandbox",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-bash-sandbox"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-brand",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-brand"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-chunked-list",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-chunked-list"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-connection",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-connection"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-file-upload",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-file-upload"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-hmr",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-hmr"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-locale",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-locale"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-modules",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-modules"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-resources",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-resources"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-agent-preset",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-agent-preset"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-approval",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-approval"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-attachment",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-attachment"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-brand-official",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-brand-official"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-chat",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-chat"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-commands",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-commands"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-conversation",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-conversation"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-cordis",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-cordis"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-deliverables",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-deliverables"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-directory-picker-browse",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-directory-picker-browse"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-directory-picker-native",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-directory-picker-native"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-goal",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-goal"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-input-trigger",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-input-trigger"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-jobs",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-jobs"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-layout",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-layout"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-message-feedback",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-message-feedback"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-model-selection",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-model-selection"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-open-in-app",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-open-in-app"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-permission-presets",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-permission-presets"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-plan",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-plan"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-reference",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-reference"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-renderer",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-renderer"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-schedule",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-schedule"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-session",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-session"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-settings",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-settings"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-settings-general",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-settings-general"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-settings-models",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-settings-models"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-settings-plugin-inventory",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-settings-plugin-inventory"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-settings-plugins",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-settings-plugins"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-settings-unarchive-sessions",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-settings-unarchive-sessions"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-sidebar",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-sidebar"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-sidebar-documentpreview",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-sidebar-documentpreview"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-sidebar-files",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-sidebar-files"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-sidebar-right",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-sidebar-right"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-sidebar-terminal",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-sidebar-terminal"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-skill",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-skill"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-subagent",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-subagent"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-theme",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-theme"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-tool",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-tool"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-trajectory",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-trajectory"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-user-questions",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-user-questions"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-workflow-run",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-workflow-run"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-client-ui-workspace",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-client-ui-workspace"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-cmdline",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-cmdline"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-code-runtime",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-code-runtime"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-code-runtime-worker-thread",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-code-runtime-worker-thread"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-command-compact",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-command-compact"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-command-feedback",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-command-feedback"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-command-goal",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-command-goal"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-commands",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-commands"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-compaction",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-compaction"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-compaction-basic",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-compaction-basic"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-compaction-image-offload",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-compaction-image-offload"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-compaction-tool-result-pruner",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-compaction-tool-result-pruner"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-cordis-client-runner",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-cordis-client-runner"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-cordis-host-runner",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-cordis-host-runner"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-credentials",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-credentials"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-credentials-local",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-credentials-local"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-deepseek-llm-api-extensions",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-deepseek-llm-api-extensions"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-deque",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-deque"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-file-reference",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-file-reference"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-file-reference-local",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-file-reference-local"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-fs",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-fs"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-fs-local",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-fs-local"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-fs-observation-policy",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-fs-observation-policy"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-fs-sandbox",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-fs-sandbox"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-goal",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-goal"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-goal-round-driver",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-goal-round-driver"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-headless",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-headless"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-home-paths",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-home-paths"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-hook-protocol",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-hook-protocol"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-hooks-claude-code",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-hooks-claude-code"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-hooks-codex",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-hooks-codex"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-host-directory-picker",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-host-directory-picker"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-host-directory-picker-auto",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-host-directory-picker-auto"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-host-directory-picker-browse",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-host-directory-picker-browse"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-host-directory-picker-native",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-host-directory-picker-native"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-host-frontend-static",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-host-frontend-static"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-host-open-in-app",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-host-open-in-app"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-host-plugin-inventory",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-host-plugin-inventory"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-host-webserver",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-host-webserver"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-http-proxy",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-http-proxy"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-invariants",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-invariants"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-jobs",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-jobs"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-jobs-local",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-jobs-local"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-launch-environment",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-launch-environment"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-llm",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-llm"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-llm-deepseek",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-llm-deepseek"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-llm-pi-ai",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-llm-pi-ai"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-llm-retry",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-llm-retry"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-mcp-client",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-mcp-client"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-mcp-resources",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-mcp-resources"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-message-feedback",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-message-feedback"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-native-command",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-native-command"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-output-retention",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-output-retention"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-package-manifest",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-package-manifest"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-permission-presets",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-permission-presets"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-persona",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-persona"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-plan-mode",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-plan-mode"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-plugin-package-inventory-deepseek",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-plugin-package-inventory-deepseek"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-ptc-runtime",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-ptc-runtime"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-ptc-runtime-node",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-ptc-runtime-node"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-pwsh-local",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-pwsh-local"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-pwsh-sandbox",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-pwsh-sandbox"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-repeat-tool-reminder",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-repeat-tool-reminder"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-sandbox",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-sandbox"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-sandbox-local",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-sandbox-local"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-sandbox-policy",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-sandbox-policy"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-sandbox-windows-acl",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-sandbox-windows-acl"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-schedule",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-schedule"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-scope",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-scope"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-sdk-app",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-sdk-app"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-sdk-jsonrpc-server",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-sdk-jsonrpc-server"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-sdk-minimal",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-sdk-minimal"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-sdk-protocol",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-sdk-protocol"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-checkpoint-policy",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-checkpoint-policy"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-format",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-format"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-format-catalog",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-format-catalog"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-format-v0-to-v1",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-format-v0-to-v1"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-format-v1-to-v2",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-format-v1-to-v2"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-format-v2-to-v3",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-format-v2-to-v3"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-log-deepseek",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-log-deepseek"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-log-export",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-log-export"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-persistence",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-persistence"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-persistence-jsonl",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-persistence-jsonl"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-projection",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-projection"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-projection-cache",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-projection-cache"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-query",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-query"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-query-sqlite",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-query-sqlite"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-reference",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-reference"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-stats",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-stats"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-telemetry",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-telemetry"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-telemetry-otel",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-telemetry-otel"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-title",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-title"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-title-first-prompt-llm",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-title-first-prompt-llm"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-title-llm",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-title-llm"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-session-turn-outline",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-session-turn-outline"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-settings",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-settings"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-settings-file",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-settings-file"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-shell",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-shell"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-shell-env",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-shell-env"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-skill",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-skill"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-skill-badge",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-skill-badge"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-skill-filesystem",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-skill-filesystem"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-spill",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-spill"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-spill-local",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-spill-local"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-spill-policy",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-spill-policy"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-storage",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-storage"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-storage-domain",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-storage-domain"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-storage-json",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-storage-json"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-subagent",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-subagent"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-subagent-fork-in-process",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-subagent-fork-in-process"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-subagent-in-process-driver",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-subagent-in-process-driver"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-subagent-spawn-in-process",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-subagent-spawn-in-process"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-subprocess",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-subprocess"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-subprocess-local",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-subprocess-local"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-system-prompt",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-system-prompt"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-terminal",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-terminal"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-terminal-bash",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-terminal-bash"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-time-context",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-time-context"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-timeout",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-timeout"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tmux-context",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tmux-context"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-token-meter",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-token-meter"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-ask-user",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-ask-user"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-bash",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-bash"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-bash-persistent",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-bash-persistent"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-call-timeout-policy",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-call-timeout-policy"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-cordis",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-cordis"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-fs",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-fs"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-fs-search",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-fs-search"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-goal",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-goal"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-jobs",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-jobs"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-knowledge",
+        "target":  "D:\\ai\\gongzuoqu\\tools\\dsh-tool-knowledge"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-present",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-present"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-pwsh",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-pwsh"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-pwsh-persistent",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-pwsh-persistent"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-ralph",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-ralph"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-skill",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-skill"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-str-replace-editor",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-str-replace-editor"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-subagent",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-subagent"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-subagent-control",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-subagent-control"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-todo",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-todo"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-web",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-web"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tool-workflow",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tool-workflow"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-tools",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-tools"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-typert-loader",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-typert-loader"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-typert-protocol",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-typert-protocol"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-typert-registry",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-typert-registry"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-user-approval",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-user-approval"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-user-questions",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-user-questions"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-util-crypto",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-util-crypto"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-util-time",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-util-time"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-util-values",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-util-values"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-util-workspace-path",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-util-workspace-path"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-web",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-web"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-web-app",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-web-app"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-web-fetch-http",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-web-fetch-http"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-web-frontend",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-web-frontend"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-web-search-deepseek",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-web-search-deepseek"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-webhook",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-webhook"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-webhook-github",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-webhook-github"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-win32-process",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-win32-process"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-workflow",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-workflow"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-workflow-ptc",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-workflow-ptc"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-workflow-worker-thread",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-workflow-worker-thread"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\dsh-workspace",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\dsh-workspace"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\node-addon-system",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\node-addon-system"
+    },
+    {
+        "path":  "profiles\\node_modules\\@deepseek-ai\\schemastery",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@deepseek-ai\\schemastery"
+    },
+    {
+        "path":  "profiles\\node_modules\\@earendil-works\\pi-ai",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@earendil-works\\pi-ai"
+    },
+    {
+        "path":  "profiles\\node_modules\\@earendil-works\\pi-telemetry",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@earendil-works\\pi-telemetry"
+    },
+    {
+        "path":  "profiles\\node_modules\\@google\\genai",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@google\\genai"
+    },
+    {
+        "path":  "profiles\\node_modules\\@hono\\node-server",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@hono\\node-server"
+    },
+    {
+        "path":  "profiles\\node_modules\\@img\\colour",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@img\\colour"
+    },
+    {
+        "path":  "profiles\\node_modules\\@joplin\\turndown-plugin-gfm",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@joplin\\turndown-plugin-gfm"
+    },
+    {
+        "path":  "profiles\\node_modules\\@mixmark-io\\domino",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@mixmark-io\\domino"
+    },
+    {
+        "path":  "profiles\\node_modules\\@modelcontextprotocol\\client",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@modelcontextprotocol\\client"
+    },
+    {
+        "path":  "profiles\\node_modules\\@modelcontextprotocol\\core",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@modelcontextprotocol\\core"
+    },
+    {
+        "path":  "profiles\\node_modules\\@modelcontextprotocol\\sdk",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@modelcontextprotocol\\sdk"
+    },
+    {
+        "path":  "profiles\\node_modules\\@octokit\\openapi-types",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@octokit\\openapi-types"
+    },
+    {
+        "path":  "profiles\\node_modules\\@octokit\\openapi-webhooks-types",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@octokit\\openapi-webhooks-types"
+    },
+    {
+        "path":  "profiles\\node_modules\\@octokit\\request-error",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@octokit\\request-error"
+    },
+    {
+        "path":  "profiles\\node_modules\\@octokit\\types",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@octokit\\types"
+    },
+    {
+        "path":  "profiles\\node_modules\\@octokit\\webhooks",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@octokit\\webhooks"
+    },
+    {
+        "path":  "profiles\\node_modules\\@octokit\\webhooks-methods",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@octokit\\webhooks-methods"
+    },
+    {
+        "path":  "profiles\\node_modules\\@opentelemetry\\api",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@opentelemetry\\api"
+    },
+    {
+        "path":  "profiles\\node_modules\\@opentelemetry\\api-logs",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@opentelemetry\\api-logs"
+    },
+    {
+        "path":  "profiles\\node_modules\\@opentelemetry\\core",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@opentelemetry\\core"
+    },
+    {
+        "path":  "profiles\\node_modules\\@opentelemetry\\exporter-logs-otlp-http",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@opentelemetry\\exporter-logs-otlp-http"
+    },
+    {
+        "path":  "profiles\\node_modules\\@opentelemetry\\otlp-exporter-base",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@opentelemetry\\otlp-exporter-base"
+    },
+    {
+        "path":  "profiles\\node_modules\\@opentelemetry\\otlp-transformer",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@opentelemetry\\otlp-transformer"
+    },
+    {
+        "path":  "profiles\\node_modules\\@opentelemetry\\resources",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@opentelemetry\\resources"
+    },
+    {
+        "path":  "profiles\\node_modules\\@opentelemetry\\sdk-logs",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@opentelemetry\\sdk-logs"
+    },
+    {
+        "path":  "profiles\\node_modules\\@opentelemetry\\sdk-metrics",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@opentelemetry\\sdk-metrics"
+    },
+    {
+        "path":  "profiles\\node_modules\\@opentelemetry\\sdk-trace",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@opentelemetry\\sdk-trace"
+    },
+    {
+        "path":  "profiles\\node_modules\\@opentelemetry\\semantic-conventions",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@opentelemetry\\semantic-conventions"
+    },
+    {
+        "path":  "profiles\\node_modules\\@protobufjs\\aspromise",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@protobufjs\\aspromise"
+    },
+    {
+        "path":  "profiles\\node_modules\\@protobufjs\\base64",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@protobufjs\\base64"
+    },
+    {
+        "path":  "profiles\\node_modules\\@protobufjs\\codegen",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@protobufjs\\codegen"
+    },
+    {
+        "path":  "profiles\\node_modules\\@protobufjs\\eventemitter",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@protobufjs\\eventemitter"
+    },
+    {
+        "path":  "profiles\\node_modules\\@protobufjs\\fetch",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@protobufjs\\fetch"
+    },
+    {
+        "path":  "profiles\\node_modules\\@protobufjs\\float",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@protobufjs\\float"
+    },
+    {
+        "path":  "profiles\\node_modules\\@protobufjs\\path",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@protobufjs\\path"
+    },
+    {
+        "path":  "profiles\\node_modules\\@protobufjs\\pool",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@protobufjs\\pool"
+    },
+    {
+        "path":  "profiles\\node_modules\\@protobufjs\\utf8",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@protobufjs\\utf8"
+    },
+    {
+        "path":  "profiles\\node_modules\\@smithy\\core",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@smithy\\core"
+    },
+    {
+        "path":  "profiles\\node_modules\\@smithy\\credential-provider-imds",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@smithy\\credential-provider-imds"
+    },
+    {
+        "path":  "profiles\\node_modules\\@smithy\\fetch-http-handler",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@smithy\\fetch-http-handler"
+    },
+    {
+        "path":  "profiles\\node_modules\\@smithy\\is-array-buffer",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@smithy\\is-array-buffer"
+    },
+    {
+        "path":  "profiles\\node_modules\\@smithy\\node-http-handler",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@smithy\\node-http-handler"
+    },
+    {
+        "path":  "profiles\\node_modules\\@smithy\\signature-v4",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@smithy\\signature-v4"
+    },
+    {
+        "path":  "profiles\\node_modules\\@smithy\\types",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@smithy\\types"
+    },
+    {
+        "path":  "profiles\\node_modules\\@smithy\\util-buffer-from",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@smithy\\util-buffer-from"
+    },
+    {
+        "path":  "profiles\\node_modules\\@smithy\\util-utf8",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@smithy\\util-utf8"
+    },
+    {
+        "path":  "profiles\\node_modules\\@stablelib\\base64",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@stablelib\\base64"
+    },
+    {
+        "path":  "profiles\\node_modules\\@standard-schema\\spec",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@standard-schema\\spec"
+    },
+    {
+        "path":  "profiles\\node_modules\\@types\\node",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@types\\node"
+    },
+    {
+        "path":  "profiles\\node_modules\\@types\\retry",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@types\\retry"
+    },
+    {
+        "path":  "profiles\\node_modules\\@vscode\\ripgrep",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@vscode\\ripgrep"
+    },
+    {
+        "path":  "profiles\\node_modules\\@xterm\\addon-serialize",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@xterm\\addon-serialize"
+    },
+    {
+        "path":  "profiles\\node_modules\\@xterm\\headless",
+        "target":  "{NPM_GLOBAL}\\node_modules\\@deepseek-ai\\dsh\\node_modules\\@xterm\\headless"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\asn1",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\asn1"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\bcrypt-pbkdf",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\bcrypt-pbkdf"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\cloudflared",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\cloudflared"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\clsx",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\clsx"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\cose-base",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\cytoscape-cose-bilkent\\node_modules\\cose-base"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\cosmokit",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\cosmokit"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\crelt",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\crelt"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\cytoscape",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\cytoscape"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\cytoscape-cose-bilkent",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\cytoscape-cose-bilkent"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\cytoscape-fcose",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\cytoscape-fcose"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-array",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-array"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-axis",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-axis"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-brush",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-brush"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-chord",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-chord"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-color",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-color"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-contour",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-contour"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-delaunay",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-delaunay"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-dispatch",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-dispatch"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-drag",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-drag"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-dsv",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-dsv"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-ease",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-ease"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-fetch",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-fetch"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-force",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-force"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-format",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-format"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-geo",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-geo"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-hierarchy",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-hierarchy"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-interpolate",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-interpolate"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-path",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-path"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-polygon",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-polygon"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-quadtree",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-quadtree"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-random",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-random"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-sankey",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-sankey"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-scale",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-scale"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-scale-chromatic",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-scale-chromatic"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-selection",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-selection"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-shape",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-shape"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-time",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-time"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-time-format",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-time-format"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-timer",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-timer"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-transition",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-transition"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\d3-zoom",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\d3-zoom"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\dagre-d3-es",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\dagre-d3-es"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\dayjs",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\dayjs"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\delaunator",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\delaunator"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\dompurify",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\dompurify"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\es-toolkit",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\es-toolkit"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\fastdom",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\fastdom"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\hachure-fill",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\hachure-fill"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\iconv-lite",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\iconv-lite"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\import-meta-resolve",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\import-meta-resolve"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\internmap",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\internmap"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\jpeg-js",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\jpeg-js"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\katex",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\katex"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\khroma",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\khroma"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\layout-base",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\cytoscape-cose-bilkent\\node_modules\\layout-base"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\lightningcss",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\lightningcss"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\lodash-es",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\lodash-es"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\marked",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\marked"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\mermaid",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\mermaid"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\package-manager-detector",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\package-manager-detector"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\path-data-parser",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\path-data-parser"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\points-on-curve",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\points-on-curve"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\points-on-path",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\points-on-path"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\qrcode.react",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\qrcode.react"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\react-icons",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\react-icons"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\robust-predicates",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\robust-predicates"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\roughjs",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\roughjs"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\rw",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\rw"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\rxjs",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\rxjs"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\safer-buffer",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\safer-buffer"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\schemastery",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\schemastery"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\ssh2",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\ssh2"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\strictdom",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\strictdom"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\style-mod",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\style-mod"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\stylis",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\stylis"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\tinyexec",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\tinyexec"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\ts-dedent",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\ts-dedent"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\tweetnacl",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\tweetnacl"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\uuid",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\uuid"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\w3c-keyname",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\w3c-keyname"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@antfu\\install-pkg",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@antfu\\install-pkg"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@braintree\\sanitize-url",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@braintree\\sanitize-url"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@chevrotain\\types",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@chevrotain\\types"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\autocomplete",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\autocomplete"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\commands",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\commands"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-cpp",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-cpp"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-css",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-css"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-go",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-go"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-html",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-html"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-java",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-java"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-javascript",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-javascript"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-json",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-json"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-markdown",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-markdown"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-php",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-php"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-python",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-python"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-rust",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-rust"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-sql",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-sql"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-vue",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-vue"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-xml",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-xml"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lang-yaml",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lang-yaml"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\language",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\language"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\legacy-modes",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\legacy-modes"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\lint",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\lint"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\search",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\search"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\state",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\state"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@codemirror\\view",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@codemirror\\view"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@iconify\\types",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@iconify\\types"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@iconify\\utils",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@iconify\\utils"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\common",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\common"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\cpp",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\cpp"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\css",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\css"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\go",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\go"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\highlight",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\highlight"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\html",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\html"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\java",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\java"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\javascript",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\javascript"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\json",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\json"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\lr",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\lr"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\markdown",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\markdown"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\php",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\php"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\python",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\python"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\rust",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\rust"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\xml",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\xml"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@lezer\\yaml",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@lezer\\yaml"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-client-ui-community-plugins",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-client-ui-community-plugins"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-client-ui-git-graph",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-client-ui-git-graph"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-client-ui-market",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-client-ui-market"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-client-ui-model-capabilities",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-client-ui-model-capabilities"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-client-ui-plugin-manager",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-client-ui-plugin-manager"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-client-ui-preset-center",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-client-ui-preset-center"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-client-ui-skill-explorer",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-client-ui-skill-explorer"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-client-ui-skin-center",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-client-ui-skin-center"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-client-ui-task-board",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-client-ui-task-board"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-client-ui-web-ui-settings",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-client-ui-web-ui-settings"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-doctor",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-doctor"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-i18n",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-i18n"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-liangshen",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-liangshen"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-pet",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-pet"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-remote-web-ui",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-remote-web-ui"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-session-archive",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-session-archive"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-ssh",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-ssh"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-tool-describe-image",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-tool-describe-image"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@linxin666\\dsh-usage",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@linxin666\\dsh-usage"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@marijn\\find-cluster-break",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@marijn\\find-cluster-break"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@mermaid-js\\parser",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@mermaid-js\\parser"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-array",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-array"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-axis",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-axis"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-brush",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-brush"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-chord",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-chord"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-color",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-color"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-contour",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-contour"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-delaunay",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-delaunay"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-dispatch",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-dispatch"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-drag",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-drag"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-dsv",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-dsv"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-ease",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-ease"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-fetch",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-fetch"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-force",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-force"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-format",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-format"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-geo",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-geo"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-hierarchy",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-hierarchy"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-interpolate",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-interpolate"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-path",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-path"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-polygon",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-polygon"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-quadtree",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-quadtree"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-random",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-random"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-scale",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-scale"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-scale-chromatic",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-scale-chromatic"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-selection",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-selection"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-shape",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-shape"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-time",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-time"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-time-format",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-time-format"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-timer",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-timer"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-transition",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-transition"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\d3-zoom",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\d3-zoom"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@types\\geojson",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@types\\geojson"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@upsetjs\\venn.js",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@upsetjs\\venn.js"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@xterm\\addon-fit",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@xterm\\addon-fit"
+    },
+    {
+        "path":  "profiles\\web\\.dsh-module-fallback\\node_modules\\@xterm\\xterm",
+        "target":  "{DSH_HOME}\\profiles\\web\\node_modules\\@xterm\\xterm"
+    },
+    {
+        "path":  "profiles\\web\\node_modules\\dsh-video-search",
+        "target":  "D:\\ai\\gongzuoqu\\tools\\dsh-video-search"
+    },
+    {
+        "path":  "profiles\\web\\node_modules\\@deepseek-ai\\dsh-tool-knowledge",
+        "target":  "D:\\ai\\gongzuoqu\\tools\\dsh-tool-knowledge"
+    }
+]

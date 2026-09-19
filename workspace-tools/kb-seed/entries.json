@@ -1,0 +1,161 @@
+[
+  {
+    "title": "知识库入库的两种姿势（工具调用 vs 脚本播种）",
+    "problem": "想把一批整理好的经验一次写进知识库时，不确定该手动拼 SQL 还是走插件；也担心自己写的库插件读不出来、或写入后 ID 规则不一致导致重复。",
+    "solution": "不要自己实现存储逻辑（schema/ID 规则/markdown 格式很容易对不上）。两种姿势都走插件自己的 kb_add：\n1) 日常：直接调工具 kb_add（title ≤30 字、problem 写报错原文、solution 写可执行步骤、带 tags）；\n2) 批量：在插件包目录里放一份脚本，用桩 ctx 接住工具注册，再调 kb_add.execute：\n   const ctx = { tools: { register: (t) => tools.set(t.name, t) }, inject(){}, on(){}, effect(){}, logger:{} };\n   mod.apply(ctx, {}); await tools.get('kb_add').execute({title, problem, solution, tags});\n幂等性：ID = sha256(title + '\\n' + problem) 前 12 位，同标题**同 problem** 会覆盖更新（同标题不同 problem 会新增一条，要留意）。\n播种完用 kb_stats 看条目数、kb_search 抽查中文命中（FTS5 trigram 是子串/短语匹配，两个词的空格查询查不到是正常的）。",
+    "tags": [
+      "知识库",
+      "kb_add",
+      "播种",
+      "FTS5"
+    ],
+    "source": "dsh"
+  },
+  {
+    "title": "插件报 ERR_MODULE_NOT_FOUND：依赖要放在插件包旁边",
+    "problem": "把插件源码放到工作区（不在 DSH 的 node_modules 下）后，插件 import '@deepseek-ai/dsh-tools' 报 ERR_MODULE_NOT_FOUND。原因：Node ESM 从**插件文件真实路径**向上找 node_modules；junction 解析到的是真实路径，所以 DSH 的大目录里的包救不了它。",
+    "solution": "在插件包内部建 node_modules/@deepseek-ai/ 并把需要的依赖 junction 过去（一次性）：\n  New-Item -ItemType Junction -Path <插件>/node_modules/@deepseek-ai/dsh-tools -Target ~/.dsh/profiles/node_modules/@deepseek-ai/dsh-tools\n需要的通常是 dsh-tools、dsh-llm、dsh-session、schemastery。\n同理，**任何要在插件包内直接 node 跑的辅助脚本**（播种/检索脚本）也必须复制到插件包目录里再跑，放外面同样解析不到依赖。",
+    "tags": [
+      "dsh",
+      "plugin",
+      "esm",
+      "node_modules",
+      "踩坑"
+    ],
+    "source": "dsh"
+  },
+  {
+    "title": "本地插件装进 DSH 的正确姿势（link + insert）",
+    "problem": "把非 npm 的本地插件（例如自写的 dsh-tool-knowledge）装进 DSH 时踩了三个坑：\n1) 手工在 node_modules 下建 junction → 下次 pnpm install 就被剪掉（它不在 package.json 里）；\n2) 写进 profile package.json 的 dsh.profile.bundles → 报错 'profile bundle \"xxx\" declares no dsh.bundle in its package.json'；\n3) 在组合配置里直接写插件目录绝对路径 → 'Directory import ... is not supported resolving ES modules'。",
+    "solution": "正确做法（以 profile web 为例）：\n1) 插件包放到工作区固定位置，package.json 里**不要**写 \"private\": true（pnpm 会跳过）；\n2) 用 link 协议装依赖（会写进 package.json，持久）：\n   cd ~/.dsh/profiles/web && pnpm add \"<包名>@link:D:/path/to/plugin\" --prefer-offline --ignore-scripts\n   装完在 ~/.dsh/profiles/node_modules/@scope/<名> 形成 junction；\n3) 用 insert 挂载（不要写进 bundles）：\n   ~/.dsh/profiles/web/cordis.patch.yml 里写 - insert: [{ id: xxx, name: '<包名>' }]\n4) 验证：dsh --profile web --dump-config | grep <包名>，再起一个实例看有没有加载报错。\n判据：插件 package.json 里是 dsh.plugin（insert 型）就写 insert；是 dsh.bundle 才写 bundles。",
+    "tags": [
+      "dsh",
+      "plugin",
+      "pnpm",
+      "link",
+      "cordis"
+    ],
+    "source": "dsh"
+  },
+  {
+    "title": "Android 11+ 选文件夹被拒：先给「所有文件访问」",
+    "problem": "设置里点「选择文件夹」后，系统选择器对所有 /sdcard 目录都提示「无法使用此文件夹 / 为保护您的隐私，请选择其他文件夹」，用户以为功能坏了。",
+    "solution": "根因：Android 11+ 应用没有「所有文件访问」（MANAGE_EXTERNAL_STORAGE）时，SAF 会直接拒绝选择公共存储目录。\n修法：\n1) 点「选择文件夹」前先查 Environment.isExternalStorageManager()，未授权就先弹授权引导并跳 Settings.ACTION_MANAGE_APP_ALL_FILES_ACCESS_PERMISSION（带 package: 数据）；\n2) 选完拿到真实路径后再做一次可写探测（建临时文件），不可写就清掉并给「去授权 / 用默认目录」补救，不要静默失败；\n3) 提供无需权限的默认目录兜底，按「公共目录 → 应用专属外部目录(Android/data/<包名>/files) → 内部目录」取第一个真正可写的；\n4) 相关入口要放在用户找得到的地方（设置页），别只放在首次使用引导页里。",
+    "tags": [
+      "android",
+      "存储权限",
+      "SAF",
+      "工作区"
+    ],
+    "source": "dsh"
+  },
+  {
+    "title": "Android 启动提速：别每次重扫/重写内核",
+    "problem": "App 热启动要 20 秒，每次启动日志都出现 'extracted 21665 entries'——即每次开机都重写 2 万+ 个内核文件。",
+    "solution": "两处根因与修法：\n1) 「完成标记缺失 → 一律全量补齐」的保守判断：改为先用标记内容里写下的构建号判断，标记缺失时再比对已就位内核 package.json 的 version（用 jsonField 解析，别依赖缩进格式）；\n2) 「内部运行时补齐」每次要预扫整个 payload（实测 2.2 秒）：改为用上次成功同步时写入 SharedPreferences 的构建号跳过；\n3) 内核快扫 2.3 秒：同一份 APK 的第 2 次启动起整段跳过，只有 APK 换新（构建号变化）才重新同步。\n效果：引擎就绪 20s → 3.7s（连续 3 次 3962/3664/3625ms）。注意第一次安装后仍需一次全量解压。",
+    "tags": [
+      "android",
+      "启动优化",
+      "dshroot",
+      "性能"
+    ],
+    "source": "dsh"
+  },
+  {
+    "title": "adb forward 别用 3080：本机 DSH GUI 占着",
+    "problem": "adb forward tcp:3080 tcp:3080 报 'cannot bind listener: 通常每个套接字地址只允许使用一次'；更坑的是即使不报错，curl http://127.0.0.1:3080 打到的其实是开发机自己的 DSH GUI，得到错误结论（我曾据此误判设备侧 token 无效）。",
+    "solution": "转发到不冲突的本地端口，例如 adb forward tcp:18080 tcp:3080，然后 curl http://127.0.0.1:18080。测试前先确认端口归属：$c = Get-NetTCPConnection -LocalPort 3080 -State Listen; (Get-Process -Id $c.OwningProcess).ProcessName —— 若是 node，多半就是本机 DSH GUI。",
+    "tags": [
+      "android",
+      "adb",
+      "调试",
+      "踩坑"
+    ],
+    "source": "dsh"
+  },
+  {
+    "title": "用 CDP 抓 WebView 控制台定位移动端前端报错",
+    "problem": "移动端 WebView 里的前端报错（例如会话创建失败、接口 4xx）在 Android 日志和引擎 stderr 里都看不到，只能看到「点了没反应」，无从下手。",
+    "solution": "最有效的诊断手段是打开 WebView 远程调试 + CDP：\n1) App 里 android.webkit.WebView.setWebContentsDebuggingEnabled(true)（建议挂在设置开关后面）；\n2) adb forward tcp:9222 localabstract:webview_devtools_remote_<pid>（pid 从 cat /proc/net/unix | grep devtools 拿）；\n3) GET http://127.0.0.1:9222/json 拿 webSocketDebuggerUrl；\n4) Node 里 new WebSocket(url) 连上后发 Runtime.enable / Log.enable，监听 Runtime.consoleAPICalled 与 Runtime.exceptionThrown。\n本次就是靠它拿到 'session create failed: agent-preset/invalid …' 才定位到工作区弹回的真因。注意本地 curl 请求受 Cookie/同源限制，CDP 直连最省事。",
+    "tags": [
+      "android",
+      "CDP",
+      "WebView",
+      "调试"
+    ],
+    "source": "dsh"
+  },
+  {
+    "title": "构建工程不在开源仓库里，改完要手动同步",
+    "problem": "改了 App 却不生效；或改了插件却以为自己改的是仓库里的源码。",
+    "solution": "D:\\ai\\gongzuoqu\\dsh-android 下的分层要分清：\n- 构建工程（不上公开仓库）：work\\android-app（MainActivity/AndroidManifest/build.sh）\n- 内核构建树：upgrade\\k016-win（dshroot + .dsh 配置）\n- 公开仓库：opensource\\dsh-android-x7root（plugins/、dsh-patches/、docs/）\n改完 App 或插件后，必须把对应文件同步进仓库再发布，否则读者拿不到你的改动。另外打包用的是 work\\android-app\\staging\\dshhome 里的配置副本——改了 cordis.patch.yml 不同步 staging，重新打包也不会生效（排查时被这个坑误导过）。",
+    "tags": [
+      "android",
+      "构建",
+      "同步",
+      "踩坑"
+    ],
+    "source": "dsh"
+  },
+  {
+    "title": "dsh-patches/overlay 是整份文件不是 diff",
+    "problem": "内核升级后直接套用旧 overlay，会把上游新代码整体回退（例如 0.1.6 的 dsh-attachment-local 已经改了很多，套旧文件等于回退）；反过来，手改内核却不归档，下次重铺内核就被覆盖，问题复现。",
+    "solution": "正确移植流程：\n1) 取旧版原始包与旧 overlay 做差异：npm pack @deepseek-ai/<包>@<旧版本>，再 git diff --no-index 原始文件 vs overlay 文件，得到「Android 改动」；\n2) 把同样的改动手动应用到新版本源码上（不要整份覆盖）；\n3) 改完立刻同步进 dsh-patches/overlay 并加入 apply.sh 的语法自检清单。\n本次实测：旧目录里那份 flock 补丁从未归档进 overlay，只在当时手改过的那棵树上生效，0.1.6 升级后问题复现——所以「改了就归档」是硬要求。",
+    "tags": [
+      "android",
+      "dsh-patches",
+      "overlay",
+      "工程规范"
+    ],
+    "source": "dsh"
+  },
+  {
+    "title": "flock is not supported on android-arm64（每轮对话失败）",
+    "problem": "每轮对话都失败，报「本轮运行失败 flock is not supported on android-arm64」。",
+    "solution": "根因：会话写入用 flock(2) 加排他锁，而 @deepseek-ai/node-addon-system 没有 bionic/Android 预编译包（只发布 linux glibc/musl、darwin、win32），锁必然加载失败。\n真机探针实测：platform=android-arm64 reportPlatform=android glibc=undefined 平台包可解析=false。\n修法：改 node-addon-system/lib/flock.js 的 tryLockExclusive，在 Android/bionic 上直接 return（引擎单进程，进程内写声明已足够互斥；与上游浏览器 worker 的 stub 同一理由）。判定要用确定事实而不是猜：\n1) process.platform === 'android' 或 reportPlatform === 'android' → 跳过；\n2) 该平台包 node-addon-system-<platform>-<arch> 无法 resolve → 跳过；\n3) Linux 且 report.header 里既无 glibcVersionRuntime 也无 muslVersionRuntime（bionic）→ 跳过。\n务必保留 glibc/musl 反例单测，别把桌面 Linux 一起跳过。",
+    "tags": [
+      "android",
+      "flock",
+      "node-addon-system",
+      "bionic"
+    ],
+    "source": "dsh"
+  },
+  {
+    "title": "选工作区一闪就弹回：其实是会话创建失败",
+    "problem": "DSH 界面「选择工作区」下拉里选中 workspace 后，标签立刻弹回「选择工作区」，看着像工作区功能坏了。",
+    "solution": "真因不在工作区：点工作区会顺手创建一个会话，而会话创建失败就回滚。用 Chrome DevTools Protocol 抓控制台原文即见：\nsession create failed: agent-preset/invalid: preset \"standard\" failed to mount: 2 row(s) did not activate:\n  workflow-ptc … waiting for ptcRuntime / tool-workflow … waiting for workflowEngine\n根因链：Android 配置里 sandbox 被禁用 → 0.1.6 的 ptc-runtime 注入 sandbox/sandboxPolicy 拿不到服务 → ptcRuntime 不激活 → standard 预设的 workflow 插件挂不上 → 预设挂载失败 → 会话创建失败。\n修法：把 sandbox 改回启用（由 dsh-sandbox-local 提供）。默认权限是 danger-full-access，该模式下 ptc/bash 都不会调用 confine()，所以不需要内核级沙箱。\n注意：bash-sandbox 必须继续禁用——它和 bash-local 抢注册 shell 服务，同时开会报 'service \"shell\" has been registered at <LocalBashExecutor>' 直接崩。",
+    "tags": [
+      "android",
+      "dsh-agent-presets",
+      "sandbox",
+      "ptc",
+      "session"
+    ],
+    "source": "dsh"
+  },
+  {
+    "title": "0.1.6 浏览器会话认证导致 WebView 401",
+    "problem": "内核升到 0.1.6 后引擎其实已就绪（日志有 dsh web: http://127.0.0.1:3080/?token=...），但 App 一直停在「正在启动 DeepSeek Harness…」；WebView 显示 dsh web authentication required; reopen the URL printed by dsh web.",
+    "solution": "根因：0.1.6 起根路径强制浏览器会话认证，无 token 返回 401；App 的健康探测与 WebView 都在请求 '/'。\n修法（App 侧 MainActivity）：\n1) 从引擎 stdout 抓 token：Pattern.compile(\"token=([A-Za-z0-9_-]{16,})\")，setWebContentsDebugging 之外只需一次捕获；\n2) homeUrl() 拼上 ?token=；\n3) 健康探测要识别 303 token 交换即判定引擎存活——HttpURLConnection 不保存 Set-Cookie，跟随后反而拿到 401（同时 setInstanceFollowRedirects(false)）；\n4) 响应体含 'dsh web authentication required' 也判定为引擎。\n服务端行为实测：无 token→401；带 token→303+Set-Cookie(dsh-auth-*，SameSite=Strict)；带 Cookie→200。",
+    "tags": [
+      "android",
+      "dsh-web",
+      "auth",
+      "webview"
+    ],
+    "source": "dsh"
+  },
+  {
+    "title": "内核升级后引擎起不来：原生插件无 android 构建",
+    "problem": "把内嵌 DSH 内核从 0.1.5-rc.2 升到 0.1.6-alpha.2 后，App 一启动引擎就退栈，WebView 永远 ERR_CONNECTION_REFUSED。引擎日志原文：\nError: dsh: host preparation failed: No usable native binding found for node-addon-require-builtin-android-arm64 (auto)",
+    "solution": "根因：0.1.6 起 dsh-app-boot 用 node-addon-require-builtin 加载 Node 内部模块，而该包的可选平台包只发布 darwin/linux-glibc/win32，没有 android(arm64) 构建。\n修法：改 dsh-app-boot 的 internalModules()，优先用 node 自带的 --expose-internals 直接 require 内部模块（App 启动引擎时本来就传了该参数，语义等价），原生插件退化为兜底：\n  const req = createRequire(import.meta.url);\n  if (process.execArgv.includes('--expose-internals')) try { return req(id); } catch {}\n  try { return req('node-addon-require-builtin').requireBuiltin(id); } catch {}\n  return req(id);",
+    "tags": [
+      "android",
+      "dsh-kernel",
+      "native-addon",
+      "dsh-app-boot"
+    ],
+    "source": "dsh"
+  }
+]

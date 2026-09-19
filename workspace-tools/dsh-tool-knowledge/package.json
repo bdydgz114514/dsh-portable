@@ -1,0 +1,16 @@
+{
+  "name": "@deepseek-ai/dsh-tool-knowledge",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": {
+      "default": "./lib/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "license": "MIT",
+  "dsh": {
+    "plugin": true
+  }
+}
