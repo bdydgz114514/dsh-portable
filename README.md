@@ -4,7 +4,7 @@
 
 完整快照体积太大（且含 3 个超过 GitHub 单文件 100 MB 上限的文件，例如 305 MB 的 `torch_cpu.dll`），因此作为 **Release 附件**发布，而不是塞进 git 仓库。
 
-### 下载地址：[DSH ????? v0.1.6-alpha.2(Windows x64)](https://github.com/bdydgz114514/dsh-portable/releases/tag/v0.1.6-alpha.2-portable)
+### 下载地址：[DSH 完整便携包 v0.1.6-alpha.2（Windows x64）](https://github.com/bdydgz114514/dsh-portable/releases/tag/v0.1.6-alpha.2-portable)
 
 | 文件 | 大小 |
 |---|---|
